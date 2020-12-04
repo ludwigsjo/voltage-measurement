@@ -4,7 +4,11 @@ If it is higher than 1,5 then a green LED lights up. But if it is lower than 1,5
 
 ### Required set
 1.Arduino uno
+
 2.Leaders
+
 3.Bread board
+
 4.One green and one read LED
+
 5.attery meter
